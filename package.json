@@ -1,0 +1,29 @@
+{
+  "name": "devicedetection",
+  "version": "0.0.1",
+  "description": "Guess device and orientation based on viewport",
+  "main": "devicedetection.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cotidia/devicedetection.git"
+  },
+  "keywords": [
+    "device",
+    "detection",
+    "viewport"
+  ],
+  "author": "Guillaume Piot @ Cotidia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cotidia/devicedetection/issues"
+  },
+  "homepage": "https://github.com/Cotidia/devicedetection"
+}
